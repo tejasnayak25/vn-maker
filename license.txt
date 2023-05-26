@@ -1,0 +1,82 @@
+Language:   English
+
+Article 1: Introduction
+1. These Individual Terms of Use apply to all acts involving use of "VN-Maker" ("Software") and related websites, software, applications, products, documents and all other merchandise and services ("Individual Services") provided by the Company to Users in connection therewith.
+2. These Individual Terms of Use set forth the conditions of use of the Individual Services. Users shall consent to these Individual Terms of Use and use the Individual Services in accordance herewith.
+3. Users will be deemed to have consented to all of the particulars set forth in these Individual Terms of Use and related guidelines (Collectively "Terms etc.") at the point in time that they click on the download button provided on this site.
+4. Users cannot use the Individual Services unless they consent to these Terms etc.
+
+Article 2: Definitions
+1. "Software" means all computer programs and data included in the comic generation software "VN-Maker".
+2. "Site" means the website entitled "VN-Maker ( https://github.com/tj-likes-coding/vn-maker ) " operated by the Company.
+3. "Client PC" means any computer on which the Software is installed.
+4. "User" means individuals and corporations that have agreed to the Terms etc. and installed Software on Client PCs.
+5. "Output Item" means works outputted using the Software with agreement to these Individual Terms of Use.
+
+Article 3: Usage Rights and Fees
+1. Users are entitled to install and use Software on Client PCs that they personally own.
+2. The Individual Services are free of charge.
+
+Article 4: Duplication
+1. Users are entitled to produce duplicates of Software generally only for backup purposes for such User itself.
+2. Notwithstanding the preceding paragraph, only with separate prior written consent of the Company, Users may duplicate the Software for the purpose of distribution the duplicates of the Software to unspecified others.
+3. Unless otherwise specified, Users shall not produce duplicates of the Software for any purposes or in any manners other than specified in preceding two paragraphs.
+
+Article 5: Prohibited Acts
+Users may not engage in the acts indicated in any of the following items when using Software. In cases where a User has engaged in an act falling under any of the following ("Prohibited Act"), regardless of whether the act arose through willful misconduct or negligence, the Company shall be entitled to deem said act as a violation, and may rescind the usage rights of, or may delete, alter or adopt other disadvantageous measures in respect of all or some Software-related data against, the User who committed the Prohibited Act.
+1. Acts that the Company judges to violate laws/regulations, public order and morality, or these Individual Terms of Use or other conditions of use etc., or to infringe the rights of others;
+2. Duplicating Individual Services or Software for the purposes of selling the same to third parties;
+3. Distributing or otherwise providing Individual Services or Software to third parties without Company approval, regardless of whether done for a fee or without charge;
+4. Reverse engineering, decompiling, reverse assembling or otherwise analyzing Individual Services or Software in whole or in part;
+5. Modifying or eliminating Individual Services or Software in whole or in part;
+6. Engaging in commercial use or secondary application of Individual Services or Software, unless in any of the following cases.
+    * Use of Software at an educational institution by teaching staff or student for educational purposes
+    * Use of Software with purpose of use or production of Output Items
+    * Use of Software with purpose of sharing production process of the Output Item to the public
+    * Use of Software to confirm the normal mechanical operation of illustrating tablets, PC, and the like on sale with the Software (For promotional purpose of the mechanical products).
+    * Any other situations specifically permitted by the Company.
+7. Transferring, lending or licensing Software to third parties.
+
+Article 6: Upgrades and Suspension of Provision etc.
+1. The Company may modify or improve Individual Services without advance notification.
+2. Unless notified or Individual Terms of Use being modified by the Company, the use of modified or improved Individual Services shall be free of charge.
+3. The Company is entitled to alter the contents of or the method of provision of Individual Service; or, temporarily suspend or discontinue the provision of Individual Services Software at any time without notice to Users if the Company judges such action necessary.
+
+Article 7: No-Guarantees
+1. The Company makes no guarantees regarding the following items. The Company is not obligated to eliminate defects etc. relating such items in providing Individual Services to Users.
+    1. the quality, functionality, or suitability for use, of Software;
+    2. a perpetual duty to update, improve, or repair deficiencies in Software;
+    3. that there will not be factual or legal defects (including flaws in regard to safety, reliability, accuracy, completeness, effectiveness, suitability for a particular purpose, security or the like; errors or bugs; and rights infringements) in Individual Services or Software. The Company is not obligated to eliminate such defects in providing Services to Users and that there will not be technical inaccuracies, typographical errors or misprints, or that deficiencies and failures will not occur, with respect to Individual Services or Software;
+    4. the state of provision, accessibility, or state of use, of Individual Services;
+    5. the legality, accuracy or the like of works created by Users and the suitability of works created by Users in relation to the internal rules etc. of the corporations, groups or the like to which such Users belong; or
+    6. that content associated with Individual Services will not contain computer viruses or the like.
+2. The fact that an external site is linked from information provided in Individual Services shall not imply the existence of any commercial relationship whatsoever between the Company and such external site. Further, external sites linked from Individual Services are not managed or operated by the Company, and the Company shall bear no liability in regard to the lawfulness, morality, reliability or accuracy of the content of such sites or in regard to site changes, updates or the like.
+3. Users, when using Individual Services or information that has come to their knowledge through Individual Services, must comply with the laws and regulations of the countries and/or regions in which they engage in such use, and the Company shall bear no liability in regard to such Users' violations of laws or regulations.
+
+Article 8: Disclaimers
+1. The Company will make utmost effort to ensure that Individual Services are beneficial to all Users, but the Company's liability to Users shall be limited to managing Individual Services, through reasonable efforts, to ensure that Users can use Services without any trouble.
+2. The Company shall be exempt from providing compensation or indemnification to Users for any damage, loss or other expenses suffered in conjunction with the following items and shall bear no liability to Users regardless of whether the relevant damage etc. was direct or indirect and regardless of whether the relevant damage etc. could have been foreseen:
+    1. the use of Individual Services or Software, or inability to use Individual Services or Software (including improved/modified Software; hereinafter the same);
+    2. In cases where the Company has terminated the Site or Software, any addition to or modification, discontinuation or termination of Software;
+    3. the devices, communication lines and software etc. used by Users;
+    4. mistakes occurring in the course of Users' use of Individual Services;
+    5. any defect, temporary suspension, partial deletion, modification or termination in/of the content of Individual Services;
+    6. any disputes etc. between Users or between Users and other third parties that arise as a result of use of Individual Services; or
+    7. the items prescribed in Article 7 regarding which the Company makes no guarantees.
+3. The Company will bear no liability for any disputes or other issues that arise in conjunction with communications, activities or transactions between Users and/or other third parties. In the event that a dispute has arisen between Users, said dispute shall be resolved between the relevant Users, and the Company will have no involvement whatsoever. When in cases that resulted in damage of the Company due to a dispute, all expense including legal expense etc. shall be paid by the person concerned by joint and several obligation.
+
+Article 9: Ownership of Intellectual Property Rights
+1. All Intellectual Property Rights and other rights to Software, information associated therewith, websites, products, programs, applications, documents and other merchandise etc. will belong to the Company.
+2. All Intellectual Property Rights and other rights to works that constitute Output Items created using Software shall belong to the Users who created such works. In addition, when the Output Items contain third-party copyrighted work etc., the right belongs to the third-party with legitimate authority to grant the license to use the copyrighted work etc. to such Users.
+3. When Output Items created using Software contains copyrighted work etc.of the third-party with legitimate authority, User must follow the license and the like of such copyrighted work etc.by such third-party . The Company shall have no responsibilities for the infringement on the license and the like by Users.
+
+Article 10: Revocation of Usage Rights
+1. If a User breaches these Individual Terms of Use, the Company is entitled to revoke such User's right to use Software.
+2. In cases where the Company has revoked the right to use Software, the relevant User shall promptly cease use of Software and promptly delete Software and all duplicates thereof.
+
+Supplementary Provisions
+* These Individual Terms of Use will come into effect on May 26, 2023.
+* Conducts done before enforcement of the Individual Terms of Use are also applied to this Individual Terms of Use.
+
+Revision
+* May 26, 2023
