@@ -7,7 +7,7 @@ Article 1: Introduction
 4. Users cannot use the Individual Services unless they consent to these Terms etc.
 
 Article 2: Definitions
-1. "Software" means all computer programs and data included in the comic generation software "VN-Maker".
+1. "Software" means all computer programs and data included in the visual novel generation software "VN-Maker".
 2. "Site" means the website entitled "VN-Maker ( https://github.com/tj-likes-coding/vn-maker ) " operated by the Company.
 3. "Client PC" means any computer on which the Software is installed.
 4. "User" means individuals and corporations that have agreed to the Terms etc. and installed Software on Client PCs.
