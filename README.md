@@ -10,7 +10,7 @@ Make yours today .
 Great news! The editor you use now is connected to the cloud, which means it can receive updates directly without having to reinstall the whole editor every time. It's like getting small updates from the cloud with minor data charges, and you only need to install the latest version when the editor requires a major update. This way, you can stay up-to-date with the latest features and improvements without any hassle!
 
 ### Documentation:
-[VN-Maker - Wiki](https://github.com/tj-likes-coding/vn-maker/wiki)
+[VN-Maker - Wiki](https://github.com/tejasnayak25/vn-maker/wiki)
 
 ### Features:
 1) Full-fledged, easy, dynamic editor.
@@ -35,4 +35,4 @@ Great news! The editor you use now is connected to the cloud, which means it can
 
 In case of bugs, please notify as soon as any bug is found in the software.
 
-Keep in touch with the latest updates about VN-Maker on [Issues](https://github.com/tj-likes-coding/vn-maker/issues).
+Keep in touch with the latest updates about VN-Maker on [Issues](https://github.com/tejasnayak25/vn-maker/issues).
